@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a80a7a0c-0576-47bf-8cea-a3dd0b59f9b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Anonymous" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/CodingBat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodingBat/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/H.W.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/out/production/H.W/org/pursuit/Cephalopod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/out/production/H.W/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/out/production/H.W/org/pursuit/Octopus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/out/production/H.W/org/pursuit/Squid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/out/production/H.W/org/pursuit/Swimmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/src/org/pursuit/Cephalopod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/src/org/pursuit/Octopus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/src/org/pursuit/Squid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../H.W/src/org/pursuit/Swimmer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/HashMap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/out/production/HashMap/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HashMap/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/Path2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/src/org/pursuit/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Path2/src/org/pursuit/PathFinderGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/org/pursuit/AlienXenomorph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/org/pursuit/DogXenomorph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/org/pursuit/HumanXenomorph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/org/pursuit/PredatorXenomorph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/org/pursuit/AlienXenomorph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/org/pursuit/DogXenomorph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/org/pursuit/HumanXenomorph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/org/pursuit/PredatorXenomorph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/PolymorphismHW.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/out/production/PolymorphismHW/org/pursuit/LagoonMonster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/out/production/PolymorphismHW/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/out/production/PolymorphismHW/org/pursuit/Monster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/out/production/PolymorphismHW/org/pursuit/Vampire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/out/production/PolymorphismHW/org/pursuit/Werewolf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/src/org/pursuit/LagoonMonster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/src/org/pursuit/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/src/org/pursuit/Vampire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismHW/src/org/pursuit/Werewolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/class_exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/out/production/class_exercises/org/pursuit/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/out/production/class_exercises/org/pursuit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/out/production/class_exercises/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/out/production/class_exercises/org/pursuit/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/out/production/class_exercises/org/pursuit/Peach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/src/org/pursuit/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/src/org/pursuit/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/src/org/pursuit/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_exercises/src/org/pursuit/Peach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/out/production/classes/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/out/production/classes/com/company/Pie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/com/company/Pie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/com/company/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/lol.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lol/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/ok.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/out/production/ok/org/pursuit/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/out/production/ok/org/pursuit/Flier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/out/production/ok/org/pursuit/FruitBat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/out/production/ok/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/out/production/ok/org/pursuit/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/src/org/pursuit/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/src/org/pursuit/Flier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/src/org/pursuit/FruitBat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ok/src/org/pursuit/Parrot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/org/pursuit/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/org/pursuit/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/out/production/untitled2/org/pursuit/MethodType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/org/pursuit/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/src/org/pursuit/MethodType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/out/production/untitled2l/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2l/untitled2l.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled3/Game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled3/Game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/src/org/pursuit/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled4/untitled4.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Dream$Main.ic" NAME="Main Coverage Results" MODIFIED="1540667494163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="193" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="649658749">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3472" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3472" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="1874082733">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.types.edit" />
+      <usages-collector id="statistics.file.extensions.edit" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>choice</find>
+      <find>enemyHp</find>
+      <find>townGate</find>
+      <find>try a</find>
+      <find>game.villageEntrance();</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>decision</replace>
+      <replace>ronaldHp</replace>
+      <replace>villageEntrance</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/org/pursuit/Game.java" />
+        <option value="$PROJECT_DIR$/src/org/pursuit/Main.java" />
+        <option value="$PROJECT_DIR$/src/org/pursuit/WasteOfSpace.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pursuit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540681992876" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.pursuit.Main" />
+      <module name="Dream" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a80a7a0c-0576-47bf-8cea-a3dd0b59f9b0" name="Default Changelist" comment="" />
+      <created>1540149594207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540149594207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860725" visible="true" weight="0.29256082" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32903865" />
+      <window_info id="Favorites" order="7" sideWeight="0.5013928" side_tool="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.42857143" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.37604457" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32633054" />
+      <window_info anchor="bottom" id="Run" order="10" weight="1.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3297568" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="1484" selection-start-line="1484" selection-end-line="1484" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/pursuit/WasteOfSpace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/pursuit/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3129">
+          <caret line="339" column="8" selection-start-line="339" selection-start-column="8" selection-end-line="339" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/pursuit/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Dream</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
