@@ -2,7 +2,7 @@ package org.pursuit;
 
 import java.util.Scanner;
 
-public class Game implements WasteOfSpace{
+public class Game implements GameStartInterface {
 
     int playerHp;
     int burgerKing;

@@ -1,6 +1,6 @@
 package org.pursuit;
 
-public interface WasteOfSpace {
+public interface GameStartInterface {
 
     void startGame();
 
