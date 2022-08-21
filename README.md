@@ -1,10 +1,3 @@
-# CYOA_Pursuit_HW_JIMENEZ_LUIS
-Homework 01.02
+Text Based Game using Java
 
-
-This is a cool README!!
-Yes READ!
-or not
-
-¯\_(ツ)_/¯ 
 # MSDOS-game
