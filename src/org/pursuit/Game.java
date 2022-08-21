@@ -233,8 +233,6 @@ public class Game implements GameStartInterface {
         System.out.println("Guard: Oh you killed Ronald McDonald!?? Great..He stole our Burger King\n" +
                 "\nThat's why we've been so hungry..!\n");
         System.out.println("Guard: It seems you are a trustworthy person. Welcome to our town!");
-        for (int x = 2; x <= 4; x++)
-            System.out.println("Value of x:" + x);
         System.out.println("\n\n           THE END                    ");
         System.out.println("\n------------------------------------------------------------------\n");
 
